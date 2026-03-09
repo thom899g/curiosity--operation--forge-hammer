@@ -1,0 +1,19 @@
+# Core trading dependencies
+web3==6.11.3
+ccxt==4.2.35
+firebase-admin==6.5.0
+requests==2.31.0
+
+# Data processing & ML
+numpy==1.24.4
+pandas==2.2.0
+scikit-learn==1.4.0
+torch==2.2.0
+stable-baselines3==2.1.0
+gym==0.26.2
+
+# Utils
+python-dotenv==1.0.0
+pydantic==2.5.3
+websockets==12.0
+aiohttp==3.9.3
